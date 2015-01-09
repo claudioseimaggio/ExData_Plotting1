@@ -1,4 +1,6 @@
 ## Introduction
+First of all I'd like to introduce myself. I'm Claudio from Rome, Italy, and I'm attending to Exploratory 
+Data Analysis course at Coursera. This is the first assignment.
 
 This assignment uses data from
 the <a href="http://archive.ics.uci.edu/ml/">UC Irvine Machine
